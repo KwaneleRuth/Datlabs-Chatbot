@@ -1,0 +1,36 @@
+intent,button
+get_started_intent,start
+greeting_intent,Hello
+user_gratitude,my pleasure
+thanks_intent,thanks
+goodbye_intent,goodbye
+affirm_intent,yep
+deny_intent,no
+gen_user_intention,I have a question
+main_menu_intent,main menu
+user_happy_state,I'm fine thanks n u
+user_sad_state,I'm not doing well thanks and you?
+seek_help_intent,I'm sick please help me
+positive_user_reaction,cool
+negative_user_reaction,that's sad
+ask_builder,Who built you?
+ask_howdoing,How are you today?
+ask_howold,How old are you?
+ask_isbot,Are you a chat bot?
+ask_howbuilt,Can you give me an idea as to how you were created?
+ask_time,Can you give me the time?
+ask_weather,How is the weather today?
+handleinsult,You are an idiot.
+gen_qtn_what_manufacturing_quality,I wish to know about manufacturing quality
+gen_qtn_what_prescriptions,does datlabs sell prescriptions
+gen_qtn_what_opening_hours,gen_qtn_what_opening_hours
+gen_qtn_promotions,Do you have promotions
+gen_qtn_where_office_location,where are your offices?
+gen_qtn_what_contact_details,what are your contact details
+gen_qtn_what_offers,what is your product lists
+gen_qtn_what_market_intelligence,what type of products do you sell
+gen_qtn_products,what products do you sell
+gen_qtn_prices,what currency do you use for pricing your products
+gen_qtn_delivery_details,does datlabs deliver bulk order goods ?
+gen_qtn_apd,what is apd
+gen_qtn_about_datlabs,what exactly does datlabs do?
