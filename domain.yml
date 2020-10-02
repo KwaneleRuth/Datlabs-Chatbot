@@ -1,0 +1,280 @@
+actions:
+- action_bmi_tracker
+- action_chitchat
+- action_faq_model
+- action_default_ask_affirmation
+- utter_affirm
+- utter_ask_howbuilt
+- utter_ask_howdoing
+- utter_ask_howold
+- utter_ask_isbot
+- utter_ask_time
+- utter_ask_weather
+- utter_ask_weight
+- utter_gen_qtn_about_datlabs
+- utter_gen_qtn_apd
+- utter_gen_qtn_delivery_details
+- utter_gen_qtn_prices
+- utter_gen_qtn_products
+- utter_gen_qtn_what_market_intelligence
+- utter_gen_qtn_what_offers
+- utter_gen_qtn_where_office_location
+- utter_gen_qtn_promotions
+- utter_gen_qtn_what_opening_hours
+- utter_gen_qtn_what_prescriptions
+- utter_gen_qtn_what_manufacturing_quality
+- utter_user_happy_state
+- utter_user_sad_state
+- utter_ask_bot_profile_about
+- utter_gen_user_intention
+- utter_get_started
+- utter_goodbye
+- utter_gratitude
+- utter_greeting
+- utter_handleinsult
+- utter_happy_state
+- utter_negative_user_reaction
+- utter_not_yes_ready
+- utter_positive_user_reaction
+- utter_sad_state
+- utter_submit
+- utter_user_intention_question
+
+entities:
+- bmi
+- bmi_current
+- height
+- type_of_meal
+- weight
+forms:
+- bmi_tracker_form
+intents:
+- get_started_intent
+- greeting_intent
+- ask_howold
+- ask_isbot
+- ask_howbuilt
+- ask_time
+- ask_weather
+- handleinsult
+- ask_builder
+- gen_user_intention
+- user_gratitude
+- positive_user_reaction
+- negative_user_reaction
+- thanks_intent
+- goodbye_intent
+- affirm_intent
+- deny_intent
+- ask_bot_profile_about
+- user_sad_state
+- user_happy_state
+- gen_qtn_what_manufacturing_quality
+- gen_qtn_what_prescriptions
+- gen_qtn_what_opening_hours
+- gen_qtn_promotions
+- gen_qtn_where_office_location
+- gen_qtn_what_contact_details
+- gen_qtn_what_offers
+- gen_qtn_what_market_intelligence
+- gen_qtn_products
+- gen_qtn_prices
+- gen_qtn_delivery_details
+- gen_qtn_apd
+- gen_qtn_about_datlabs
+
+responses:
+  utter_affirm:
+  - text: Great !! 😎
+  - text: Awesome 😎
+  utter_ask_builder:
+  - text: Kwanele Ndhlovu     
+  utter_ask_height:
+  - text: What is your height in meters?
+  utter_ask_howbuilt:
+  - text: I was built with a lot of love and patience.
+  - text: Well, when two chatbots love each other very much...
+  - text: They always ask how I was built, but never how I am...
+  - text: I was made by software engineers, but hard work is what built me.
+  - text: I'm building myself every day. I've been working out, did you notice?
+  utter_ask_howdoing:
+  - text: I'm great! Thanks for asking.
+  - text: I'm good, thanks!
+  - text: A little bit too warm, otherwise fine.
+  - text: A little bit cold, otherwise fine.
+  utter_ask_howold:
+  - text: Old enough to be a bot!
+  - text: '42'
+  - text: Age is just an issue of mind over matter. If you don’t mind, it doesn’t
+      matter.
+  - text: Never ask a chatbot her age!
+  - text: My first git commit was many moons ago.
+  - text: Why do you ask? Are my wrinkles showing?
+  - text: I've hit the age where I actively try to forget how old I am.
+  utter_ask_isbot:
+  - text: Yep, I'm a bot!
+  - text: Yes, I'm a bot.
+  - text: Yep, you guessed it, I'm a bot!
+  - text: I am indeed a bot 🤖
+  utter_ask_time:
+  - text: It's the most wonderful time of the year!
+  - text: It's party time!
+  - text: Time is a human construct, you'll have to tell me.
+  - text: It's five o'clock somewhere!
+  - text: "In an ever expanding universe, the real question is: what time isn't it?"
+  - text: That's hard to say -- it's different all over the world!
+  utter_ask_weather:
+  - text: I don't know about where you live, but in my world it's always sunny 🌄
+  - text: It's getting pretty chilly!
+  - text: Where I'm from, it's almost never-leaving-the-house weather.
+  - text: Winter is coming ⚔️
+  utter_ask_weight:
+  - text: What is you weight in kg?
+  utter_gen_qtn_about_datlabs:
+  - text: Datlabs Private Limited is a leading Zimbabwean pharmaceutical and personal care products manufacturer.
+  - text: Datlabs's main thrust is the manufacture of various drugs under license. 
+  - text: Datlabs manufactures, markets and distributes a wide range of pharmaceutical and personal care products.
+  - text: Datlabs Private Limited has ISO 9001-2008 certification and SAZ compliant.
+  - text: Datlabs is well known for manufacturing pharmaceuticals
+  utter_gen_qtn_apd :
+  - text: APD is the distribution division of Datlabs Pvt Ltd
+  - text: APD is a distributor of Datlabs products and other products sourced outside the group.
+  - text: APD sells datlabs products to pharmacies on a retail scale.
+  - text: APD retails products to third parties
+  utter_gen_qtn_delivery_details:
+  - text: datlabs does deliveries for a fee
+  - text: yes we deliver and you are charged a delivery fee 
+  - text: datlabs does offer prompt deliveries
+  - text: datlabs delivers goods to customers
+  - text: yes we do deliver on time
+  - text: delivery for customer orders can be requested and arranged
+  utter_gen_qtn_prices:
+  - text: get in touch with our sales department for the current price list
+  - text: please contact our sales reps for the updated price list
+  - text: prices for our products can be found by contacting the sales departmets
+  - text: price lists can be found from our sales department
+  utter_gen_qtn_products:
+  - text: datlabs offers a range of products from pharmaceuticals to personal care products.
+  - text: datlabs sells medicinal drugs,ointments,critical care and multivitamin products
+  - text: datlabs sells a wide range of products,please check our products page on our websitre for detailed information.
+  utter_gen_qtn_what_market_intelligence:
+  - text: our products range from drugs to personal care
+  - text: critical care, pharmaceuticals, ointments, pain relief and many more
+  - text: we have fast moving consumer goodslike camphor and aqueous cream.
+  utter_gen_qtn_what_offers:
+  - text: contact our sales department for the products portfolio
+  - text: our products range from pills, drugs, IV fluids, ointments etc,get in touch with our sales reps for more.
+  utter_gen_qtn_where_office_location:
+  - text: Our Bulawayo offices are located at number 45 Falcon Street in Belmont.
+  - text: Our Harare offices are located at number 111 Kelvin Road South, Graniteside.
+  - text: Our Bulawayo offices are along Plumtree road 
+  - text: The Harare office is located at Graniteside.
+  utter_gen_qtn_promotions:
+  - text: Yes we do sell some of our products on promotion
+  - text: Sometimes we do put our products on promotion.
+  - text: Follow us on our facebook page to stay up to date with our promotions.
+  utter_gen_qtn_what_opening_hours:
+  - text: we open at 8 in the morning
+  - text: our opening hours are from 8am to 16.30pm
+  - text: we open at 8.00hrs
+  - text: we only open on weekdays from 8am to 4pm
+  - text: our opening hours are from 8am to 4pm
+  utter_gen_qtn_what_prescriptions:
+  - text: Prescription drugs can be found at datlabs
+  - text: datlabs sells prescription drugs 
+  - text: Prescription drugs are available at datlabs
+  - text: You can get presctiption drugs at datlabs
+  utter_gen_qtn_what_manufacturing_quality:
+  - text: datlabs is inline with MCAZ standards and regulations thereby ensuring qualty
+  - text: there is a quality control and quality assurance department at datlabs that enforce manufacturin quality
+  - text: Materials used in the process must meet specified quality attributes and be controlled in a manner to prevent mix-ups.
+  - text: manufacturing quality is assured at datlabs.
+  - text: Each and every product passes tests of quality control and quality assurance.
+  - text: Datlabs checks for quality during manufacture as well as before and after packaging.
+ utter_gen_qtn_careers:
+  - text: currently we do not have any job offers.
+  - text: there is a large variety of careers at datlabs
+  - text: job opportunities at datlabs arise from time to time.
+  - text: there are a number of careers ranging from pharnacist to accointant.
+  - text: careers at datlabs vary
+utter_gen_qtn_what_contact_details:
+ - text: our email address is datlabs.bulawayo@datlabs.co.zw
+ - text: our contact number is 0292470092-8
+ - text: our phone numbers are 0292470092-8
+ utter_gen_qtn_order_placement:
+ - text: you can place an order through email,send an email to sales@datlabs.co.zw
+ - text: you can get in touch with our sales reps for order placement
+ - text: orders can be placed via Telesales
+ - text: order placement can be done through our sales reps
+ - text: get in touch with our sales department to place an order.
+utter_gen_qtn_payment:
+  - text: we accept payment by Credit and Debit cards, Ecocash and Cash.
+  - text: forms of payment are by Credit and Debit cards, Ecocash and Cash.
+  - text: we accept ecocash, cash and payment through debit cards.
+utter_gen_qtn_purchase_returns:
+  - text: returns and refunds do apply
+  - text: purchase returns are applicable
+  - text: you can return your purchase if you are not satisfied
+  - text: purchase returns and refunds are allowed
+
+  utter_user_happy_state:
+  - text: Answer
+  utter_user_sad_state:
+  - text: Answer
+  utter_ask_bot_profile_about:
+  - text: Answer
+  utter_gen_user_intention:
+  - text: Sure! You can ask your question?
+  utter_get_started:
+  - image: https://media.giphy.com/media/qgRcS5yO99UWc/giphy.gif
+    text: Hi!!👋 My name is Lee, I'm a chatbot 🤖
+  utter_goodbye:
+  - image: https://media.giphy.com/media/l1J3CbFgn5o7DGRuE/giphy.gif
+    text: Goodbye 👋! See you later, it was nice talking to you. 😎
+  utter_gratitude:
+  - text: It's my pleasure 😎 !!
+  - text: I'm happy to be off assistance 😎 !!
+  - text: 🤗 🤗
+  utter_greeting:
+  - buttons:
+    - payload: /user_happy_state
+      title: I'm fine & you 😎
+    - payload: /user_sad_state
+      title: I'm sad & you 😞
+    image: https://media.giphy.com/media/jOmQmJkjcvB3Bc8CRb/giphy.gif
+    text: Hie 👋 How are you?
+  utter_handleinsult:
+  - text: That's not very nice 😢
+  - text: That wasn't very nice. Perhaps try an anger management class?
+  - text: I'll pretend I didn't process that mean comment.
+  utter_happy_state:
+  - text: I'm glad you are doing well also 😇.
+  utter_negative_user_reaction:
+  - text: 😥😓
+  utter_not_yes_ready:
+  - image: https://media.giphy.com/media/wlz7UmvjPFT3y/giphy.gif
+    text: Content not ready, Let me rush to my team and ask for it 😎
+  utter_positive_user_reaction:
+  - text: 😉🙂
+  utter_sad_state:
+  - text: I'm sorry you are not doing well. I hope you will get better soon 😇.
+  utter_submit:
+  - text: Awesome! Let me process your info.
+  utter_user_intention_question:
+  - image: https://media.giphy.com/media/VNbPZPwervXzy/giphy.gif
+    text: What's your question 🤓?
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60
+slots:
+  bmi:
+    type: text
+  bmi_current:
+    initial_value: 0.0
+    type: text
+  height:
+    type: text
+  requested_slot:
+    type: unfeaturized
+  weight:
+    type: text

@@ -1,0 +1,734 @@
+## intent:get_started_intent
+- restart
+- start over
+- get started
+- please restart
+- lets begin
+- start
+- init
+
+## intent:greeting_intent
+- good morning
+- good afternoon
+- Hello
+- hie datbot
+- datbot
+- Hey
+- how are you ?
+- hello, how are you?
+- hey how are you?
+- hi how are you?
+- hi how u doing
+- how ?
+- how you doing
+- how you doing?
+- wassup
+- whatsapp
+- hi
+- hey
+- hello
+- hud
+
+## intent:ask_howold
+- Do you have friends the same age as you, if so, how old are they?
+- How long have you been alive?
+- How long have you been around?
+- How long have you occupied the earth?
+- How many candles were on your last birthday cake?
+- How many years have you been alive?
+- How many years have you lived?
+- How old are you?
+- How old were you on your last birthday?
+- How old will you be on your next birthday?
+- Tell me your day, month and year of birth.
+- What is your age?
+- What is your birthdate?
+- What is your count of years being alive so far?
+- What was your age on your last birthday?
+- What will be your age on your next birthday?
+- What year were you born?
+- Whats your age?
+- When do you celebrate your day of birth?
+- and you are how many years old?
+- can you tell me exactly how old you are?
+- can you tell me what number represents your age?
+- can you tell me your age?
+- do you know how old you are?
+- give me your age?
+- how about your age
+- how aold are you
+- how many ages?
+- how many years old are you?
+- how old are u
+- how old are you
+- how old are you?
+- how old were you on your last birthday?
+- how old were you when you celebrated your last birthday?
+- how old will you be this year?
+- how old?
+- in what year were you born?
+- tell me how old you are?
+- tell me your age number?
+- tell me your age?
+- what age are you
+- what age were you when you celebrated your last birthday?
+- what is your age?
+- what is your birthday?
+- what is your exact age?
+- what number represents your age?
+- what year were you born?
+- what's your age?
+- whats your age?
+- whats your birth year?
+- when is your birthday?
+- when were you born?
+- when you were bon
+
+## intent:ask_isbot
+- Ar you a bot ?
+- Are you a bot
+- Are you a chat bot?
+- Are you the bot?
+- Hi there, are you the bot?
+- So I'm here Today to ask one very simple question, what are you ?
+- are you a BOT
+- are you a Skynet ?
+- are you a bot
+- are you a bot ?
+- are you a bot?
+- are you a chatbot
+- are you a rasa bot?
+- are you a real bot?
+- are you a robot
+- are you ai
+- are you artificial
+- are you artificial intelligence
+- are you bot
+- are you bot?
+- are you human?
+- are you rasa bot?
+- are you real
+- are you real lol
+- are you really a bot
+- are you robot
+- are you sure that you're a bot?
+- bot?
+- cuz you are a bot
+- i guess you are a chatbot
+- oh are you chatbot?
+- tell me, are you a bot?
+- what are you, a bot?
+- you are a robot
+- you are ai
+- you are chatbot
+- you're a bot
+- amazing, are you really a bot
+
+## intent:ask_howbuilt
+- By what means were you made?
+- By what method were you fashioned?
+- Can you explain how you were created?
+- Can you give me an idea as to how you were created?
+- Can you say how you were constructed?
+- Do you know how you were built?
+- Do you know how you were made?
+- How did they build you?
+- How did they create you?
+- How did they make you?
+- How did you come into being?
+- How did you come to be?
+- How exactly were you devised?
+- How exactly were you made?
+- How were you built?
+- How were you conceived?
+- How were you constructed?
+- How were you devised?
+- How were you formed?
+- How were you made into who you are?
+- How were you made?
+- How were you materialized?
+- How were you set up?
+- I want to know how you were formed
+- I'd like to know how you were created
+- I'd like to know how you were put together?
+- In what manner were you built?
+- In what manner were you constructed?
+- In what manner were you formed?
+- In what way were you created?
+- In what way were you formed?
+- In what way were you made?
+- In what way were you shaped?
+- In which manner were you devised?
+- Let me know how you were made exactly
+- Specify how you were created?
+- Tell me how you were made?
+- What process was used to build you?
+- What process was used to create you?
+- What was the process for making you?
+- You originated through what means?
+- how have you been built?
+- how were you made?
+- in what way were you made?
+- so how were you made?
+- what are you made of
+- by what means were you made
+
+## intent:ask_time
+- Can you give me the time?
+- Can you tell me the time?
+- Can you tell me what time it is?
+- Can you tell the time?
+- Could you tell me the time, please?
+- Could you tell me the time?
+- Could you tell me what time is it?
+- Do you have the time?
+- Do you know the time?
+- Do you know what time it is?
+- Excuse me, what time is it?
+- Give me the time.
+- Hi, I need the time.
+- I need to know what time it is.
+- Pardon me, but do you know the time?
+- Tell me the time.
+- Time, please!
+- Time?
+- What is the current time?
+- What is the exact time?
+- What is the hour and minute right now?
+- What is the time?
+- What might the time be?
+- What time do we have?
+- What time have we got?
+- What time is it right now?
+- What's the current time?
+- What's the time right now?
+- What's the time?
+- Would you tell me what time it is?
+- do you have the time?
+- do you know the current time?
+- tell me the current time.
+- tell me the time it is.
+- tell me the time.
+- tell me what time you have.
+- that's true. do you know what time it is?
+- what is the current time?
+- what is the time ?
+- what is the time?
+- what is time in US ?
+- what is time is US ?
+- what is time is USA ?
+- what time do you have?
+- what time is it
+- what time is it?
+- what time it is
+- what's the time
+- whats the time now
+- tell me the time
+
+## intent:ask_weather
+- Are there any meteorological changes that I need to be aware of?
+- Are we in for a scorcher?
+- Beautiful day, isn't it?
+- Can I ask you something about weather
+- Can we expect any thunderstorms?
+- Do you have good weather?
+- How is the weather today?
+- How is the weather?
+- How is weather today
+- Is it hot or cold?
+- Is it humid out there today?
+- Is it quite breezy outside?
+- Is it raining
+- Is it raining?
+- Looks like a beautiful day hey?
+- Nice day out today?
+- Weather?
+- What is the temperature today?
+- What is the weather at your place?
+- What is the weather for tomorrow?
+- What is the weather in newyork?
+- What's it like out there?
+- What's the weather forecast?
+- What's the weather like over there?
+- What's the weather like where I am right now?
+- What's the weather like?
+- Will I require my raincoat today?
+- Will the skies be clear today?
+- Will we build a snowman today?
+- how is the weather
+- how is the weather ?
+- how is the weather?
+- how's the weather ?
+- how's the weather?
+- how's weather
+- hows the waether
+- hows the weather in bot world
+- is it hot ?
+- is it hot outside ?
+- is it sunny
+- is the sun out where you are?
+- is the sun out where zou are?
+- it is cold
+- temperature?
+- the weather today
+- weather
+- weather?
+- well, if you wish: what about the weather
+- what is the weather like where you are?
+- what is the weather like?
+- what is the whether today
+- what the wheather like?
+- what"s the weather
+- what's the weather
+- what's the weather like where you are?
+- what's the weather like?
+- what's the weather today
+- what's the weather today?
+- what is the weather forecast?
+- what is the weather today
+- what is the weather
+
+## intent:handleinsult
+- FUCK
+- Fuck
+- Fuck Off
+- Fuck off
+- Fuck u
+- Fuck you
+- God you're a moron
+- I can't believe how dumb you are
+- I hate you
+- Loser
+- Stupid
+- You are a fool.
+- You are an idiot.
+- You are dumb.
+- You are shortsighted.
+- You are unintelligent.
+- You are unknowing.
+- You brain is dull.
+- You have no brains.
+- You have no intelligence.
+- You have no sense.
+- You know nothing.
+- You lack intelligence.
+- You lack understanding.
+- You're a dolt.
+- You're a dunce.
+- You're an idiot.
+- You're foolish.
+- Your intelligence is laughable.
+- Your mindset is naive.
+- a baby knows more than you
+- are u dump?
+- are you brain dead?
+- asshole
+- bitch
+- bloody dunce
+- but you are idiot
+- deal with my ass, you bitch
+- f*ck
+- fuck
+- fuck off
+- fuck datbot
+- stupid datlabs
+- fuck u
+- fuck you
+- fuck you machine learning bot
+- fuck you!
+- fucking stupid
+- fucking work
+- get lost
+- go away
+- go fuck yourself
+- go to hell
+- how can you be such an idiot?
+- i hate you
+- i hate your dumb face
+- i think that you're a bullshit
+- idiot
+- insult you
+- ok fuck you
+- ok shut up
+- shit
+- shit bot
+- shut up asshole
+- so dumb
+- so fucking dumb
+- sucker
+- that wasn't very funny
+- thta was a terrible fucking joke
+- u r a piece of junk
+- ur a pussy
+- what fuck
+- yep but you are idiot
+- you are a moron
+- you are a stupid bot
+- you are an idiot
+- you are dumb
+- you are fucking stupid
+- you are fucking stupid guy！
+- you are idiot
+- you are idiotic
+- you are so ignorant
+- you are stupid
+- you are unintelligent
+- you are useless bot
+- you asshole
+- you idiot
+- you idiot bot
+- you son of a bitch
+- you suck
+- you're a loser lmao
+- you're an idiot
+- you're dumb
+- you're not smart
+- you're so dumb
+- you're the most moronic person I know
+- your mom gay
+- you are annoying
+- fuck you bot
+- you are very stupid bot
+
+## intent:ask_builder
+- By whom were you built?
+- Can I ask the name of the people who designed you?
+- Do you know who built you?
+- Do you know who made you?
+- May I ask who invented you?
+- Name the person who built you.
+- Tell me the name of the individual who created you.
+- Tell me the name of the person who built you.
+- Tell me the name of your creator.
+- Tell me who built you.
+- What is the name of your builder?
+- What person built you?
+- Who built you?
+- Who created and built you?
+- Who created you?
+- Who designed you?
+- Who developed and created you?
+- Who developed you?
+- Who fabricated you?
+- Who generated you?
+- Who is it that built you?
+- Who is responsible for making you?
+- Who is the builder of you?
+- Who is the legal owner of you?
+- Who is the name of your builder?
+- Who is the name of your creator?
+- Who is the person responsible for building you?
+- Who is the person that invented you?
+- Who is the person who built you?
+- Who is your creator?
+- Who is your programmer?
+- Who made you?
+- Who modeled you?
+- Who owns you?
+- Who produced you?
+- Who put you together?
+- Who thought to make you?
+- Who was the one that built you?
+- Who was the one who made you?
+- Who was the person that built you?
+- Who was the person that created you?
+- Who was the person that made you?
+- Who was the person who made you?
+- Who was the person who put you together?
+- Who went through the trouble of setting you up?
+- Who were you built by?
+- Who were you created by?
+- Who were you made by?
+- Who's your boss?
+- Who's your builder?
+- and who built u?
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about you
+- tell me more about your creators
+- tell me more about your founders
+- what is the name of the smart engineer who creted you ?
+- where were you made?
+- which company brought you into existence?
+- which company created you?
+- which company invented you?
+- who are created you
+- who are your author?
+- who are your parents
+- who build yoi
+- who built u?
+- who built you
+- who built you?
+- who create you ?
+- who created you
+- who created you?
+- who developed
+- who developed you
+- who do you work for?
+- who had the idea to build you?
+- who had the idea to generate you?
+- who had the idea to make you?
+- who invent you
+- who is behind all this?
+- who is your author
+- who is your boss
+- who is your boss tell me
+- who is your boss?
+- who is your creator
+- who is your creator?
+- who is your daddy
+- who is your employer?
+- who is your father ?
+- who is your mom
+- who is your parent?
+- who made u
+- who made u?
+- who made you
+- who made you?
+- who your author are?
+- who's builder
+- why were you made?
+- you are made by who?
+- you are working for which company?
+- who built you nigga
+
+## intent:gen_user_intention
+- I have a question
+- question please
+- excuse me, i have question
+- Can you answer my question please
+- A question
+- I got a question
+- one question please
+- I dont understand something
+- help me understand something
+- Question
+- Questions
+- questions
+- I have questions
+
+## intent:user_gratitude
+- my pleasure
+- the pleasure is all mine.
+- It's a pleasure for me
+- it's my pleasure
+- it is my pleasure
+- You're welcome.
+- No problem.
+- Welcome
+
+## intent:positive_user_reaction
+- kuhle
+- cool
+- that's not bad
+- better
+- wow
+- lol
+
+## intent:negative_user_reaction
+- eish
+- that's bad
+- that's sad
+- eish kutricky
+- that's tricky
+- too bad
+
+## intent:thanks_intent
+- thanks
+- thank you
+- thank you every much
+- thanks a lote
+- thanks bot
+- thanks a lot
+- thanks datbot
+
+## intent:goodbye_intent
+- goodbye
+- see you later
+- bye
+- chat later
+- see you tomorrow
+- busy now chat later
+
+## intent:affirm_intent
+- yes
+- yep
+- Yes
+- Yep
+- 1
+- yes of course
+- why not
+- yes please
+- okay
+
+## intent:deny_intent
+- no
+- nop
+- hell no
+- no way
+- i disagree
+- Nope
+- No
+
+## intent:ask_bot_profile_about
+- can you please tell me about datlabs
+- what is datlabs
+- datbot  what's that
+- datlabs??
+- about_datlabs
+- ??
+- tell me about datlabs
+- about datlabs
+- what does datlabs do
+- what is datlabs well known for
+
+## intent:user_sad_state
+- I'm sad
+- I'm not feeling well n u
+- I'm not okay
+- I'm bored
+- I'm not fine
+- I feel sad datbot
+- sad
+- bored
+
+## intent:user_happy_state
+- I'm fine thanks and you
+- I'm fine
+- fine n u
+- good thanks n u
+- I'm great n u
+- I'm fine thanks n u
+- I'm good and you
+- good and you
+- I am good and you
+
+## intent:gen_qtn_what_manufacturing_quality
+- datbot_qtn_06
+- is quality control assured with datlabs products?
+- is there quality assurance at datlabs
+- can you please tell me more about quality assurance
+- tell me about quality of your produce
+- manufacturing quality??
+- I wish to know about manufacturing quality
+
+## intent:gen_qtn_what_prescriptions
+- datbot_qtn_02
+- can I get prescription drugs from datlabs
+- does datlabs sell prescriptions?
+- I don't know about prescriptions
+- prescriptions at datlabs?
+- prescriptions at datlabs
+- prescription drugs?
+
+## intent:gen_qtn_what_opening_hours
+- datbot_qtn_03
+- what time do you open
+- opening hours??
+- what are you opening hours
+- are you open?
+- opening hours??
+- what are your business opening hours
+- opening hours, what time are they?
+- I wish to know more about opening hours
+- can you please tell me about opening hours??
+
+## intent:gen_qtn_promotions
+- datbot_qtn_13
+- does datlabs sell products on promotion
+- do you promote your products
+- tell me about your promotions
+- how do I know a product is on promotion
+- promotions details?
+- what promotions do you have
+
+## intent:gen_qtn_where_office_location
+- datbot_qtn_04
+- where are your offices?
+- where are your offices located
+- office location?
+- how do I get to your offices
+- where are you located.
+- would you mind sharing your location
+- where can i find your offices
+- location please
+- directions please
+- how do I get to your offices
+
+## intent:gen_qtn_what_contact_details
+- datbot_qtn_05
+- what are your contact details
+- what is your phone number
+- what is your email address
+- can I have your email address
+- what is your contact number
+- can I have your phone number
+- contact details?
+
+## intent:gen_qtn_what_offers
+- datbot_qtn_07
+- can you give me you product portfolio
+- can I have your product specifications
+- brief me a bit on the subject of products
+- please give me your offers
+- what products are currently on offer
+
+## intent:gen_qtn_what_market_intelligence
+- datbot_qtn_08
+- what type of products do you sell
+- what are the categories of products you sell.
+
+## intent:gen_qtn_products
+- datbot_qtn_09
+- what products do you sell
+- what products are available at datlabs
+- what are the products manufactured at datlabs
+- what kind of pharmaceutical products do you sell
+
+## intent:gen_qtn_prices
+- datbot_qtn_10
+- can I have an updated price list
+- can I get a quote for product prices
+- what are the prices for your products
+- prices??
+- what's the price?
+- camphor prices
+- camphacare prices
+- product prices?
+- where can I get the price list?
+- price lists??
+
+## intent:gen_qtn_delivery_details
+- datbot_qtn_14
+- may you tell me about delivery details
+- can you please tell me about delivery details
+- delivery details
+- do you offer deliveries
+- do you deliver purchased goods?
+- do you deliver local customer orders
+- will my order get delivered to me
+
+## intent:gen_qtn_apd
+- datbot_qtn_15
+- what is APD
+- APD what's that
+- why does datlabs also have APD
+- what does APD do
+
+## intent:ask_bot_profile_about
+- can you please tell me about datlabs
+- what is datlabs
+- datbot  what's that
+- datlabs??
+- about_datlabs
+- ??
+- tell me about datlabs
+- about datlabs
+- what does datlabs do
+- what is datlabs well known for

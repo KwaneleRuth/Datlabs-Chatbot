@@ -1,0 +1,13 @@
+language: "en"
+pipeline: "supervised_embeddings"
+epochs: 400
+
+policies:
+  - name: TwoStageFallbackPolicy
+    nlu_threshold: 0.3
+    fallback_core_action_name: "action_default_ask_affirmation"
+  - name: MemoizationPolicy
+  - name: MappingPolicy
+  - name: TEDPolicy
+    max_history: 5
+    epochs: 400
